@@ -7,6 +7,7 @@ Bienvenido al repositorio de mi página Web. Me decidí por crear esta ***págin
 Estoy planeando hacer que mi página sea un lugar dónde pueda compartir mis ideas, diseños y planes que haga durante mi carrera de vida. Será como un portafolio separado de la plataforma de GITHUB. 
 # 🔶 Advertencia de Copyright - 2024
 Muchos de las imágenes presentadas son hechas por mí en Photoshop y AUTOCAD. Esta página posee ideas mejoradas de otros sitios web para lograrse, que inspiraron en su diseño para ser creada, si ***los presentes diseños y estilos*** son parecidos a algún respectivo autor o hay algún problema en estos, **pido que me contacte**. 
+# 🔶 Link de Acceso a la WEB
 
 <div align="center">
   🧡 ¡Agradezco por leerme! Espero contribuir contigo en proyectos para el desarrollo informático 💻 <br/>
